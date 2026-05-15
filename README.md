@@ -26,10 +26,12 @@ When I'm not working with data, I enjoy Reading, hiking, cricket. I love the "ah
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/analystvipull)
       
 
+
 ## 🌱 Currently Learning 
 
 - Exploring Data Science, including machine learning, data analysis, and predictive modeling.
 - Learning Cloud Computing (AWS), Big Data tools like Hadoop, and modern AI technologies.
+
 
 ## 🛠️ Technical Skillset
 
