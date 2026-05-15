@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vipulingawale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/vipulll.__?igsh=MXIydnJxYTd3bWd3cw=="><img src="https://img.shields.io/badge/Instagram-Connect-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.instagram.com/vipulll.__?igsh=MXIydnJxYTd3bWd3cw=="><img src=https://pin.it/1N1C31T33Instagram-Connect-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:vipulingawale123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
