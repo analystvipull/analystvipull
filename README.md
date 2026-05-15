@@ -26,8 +26,8 @@ When I'm not working with data, I enjoy [Reading, hiking, cricket]. I love the "
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Exploring Data Science, including machine learning, data analysis, and predictive modeling.]
+- [Learning Cloud Computing (AWS), Big Data tools like Hadoop, and modern AI technologies.]
 
 ## 🛠️ Technical Skillset
 
